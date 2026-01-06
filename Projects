@@ -1,0 +1,20 @@
+## Project: VMware Host Troubleshooting
+
+### Issue
+VMs experiencing high latency after migration.
+
+### Environment
+- ESXi 7.x
+- vCenter
+- vSAN
+
+### Troubleshooting Steps
+- Checked ESXi logs
+- Verified NIC teaming
+- Validated datastore latency
+
+### Resolution
+Identified NIC misconfiguration and corrected MTU.
+
+### Result
+Latency reduced by 40%.
