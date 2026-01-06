@@ -1,4 +1,3 @@
-# vishnusingh.github.io
 # Vishnu Singh
 ### Server | Cloud | DevOps Engineer
 
